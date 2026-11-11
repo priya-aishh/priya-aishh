@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a data and AI professional who turns complex analysis into practical decisions.<br>My experience spans consumer platforms serving 100M+ users and private banking.<br>I work across data science, GenAI, and evaluating AI systems for accuracy, relevance, and safety.<br>From building models to launching products, I connect technical work with business impact.<br>I’m currently pursuing a Master of IT in Business in Data Science & AI at SMU.
+I’m a data and AI professional who turns complex analysis into practical decisions.<br>My experience spans consumer platforms serving 100M+ users and private banking.<br>I work across data science, GenAI, and evaluating AI systems for accuracy, relevance, and safety.<br>From building models to launching products, I connect technical work with business impact.<br>I’m currently pursuing a Master of IT in Business in Data Science & AI at Singapore Management University.
 
 
 ## 🌐 Socials:
